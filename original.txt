@@ -1,0 +1,6 @@
+goos: darwin
+goarch: amd64
+pkg: whatever
+cpu: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+BenchmarkList-8                      	signal: interrupt
+FAIL	whatever	1.347s
